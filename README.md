@@ -1,7 +1,7 @@
 # GlasgowBikingAPI
 A auto-generating historical log for nextbike availability in glasgow.
 ----------------------------------------------------------------------
-API ROOT: https://raw.githubusercontent.com/vyrzdev/GlasgowBikingAPI/api
+API ROOT: https://raw.githubusercontent.com/vyrzdev/GlasgowBikingAPI/master/api
 ```
 List Available Datasets:
   /index/info.json
