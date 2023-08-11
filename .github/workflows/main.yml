@@ -23,7 +23,9 @@ jobs:
 
       - name: Run a multi-line script
         run: |
-          git config --global user.name "NextBikeBot"
+          git config --global user.name "NextBikeBot" 
+          git config --global user.email "you@example.com"
+
           
           pip install requests
           
